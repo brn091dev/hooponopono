@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hooponopono/static/css/main.5961c55f.chunk.css",
-    "main.js": "/hooponopono/static/js/main.fa17e6ef.chunk.js",
-    "main.js.map": "/hooponopono/static/js/main.fa17e6ef.chunk.js.map",
+    "main.css": "/hooponopono/static/css/main.7d27b703.chunk.css",
+    "main.js": "/hooponopono/static/js/main.fab83858.chunk.js",
+    "main.js.map": "/hooponopono/static/js/main.fab83858.chunk.js.map",
     "runtime-main.js": "/hooponopono/static/js/runtime-main.f117c90b.js",
     "runtime-main.js.map": "/hooponopono/static/js/runtime-main.f117c90b.js.map",
     "static/js/2.b52640aa.chunk.js": "/hooponopono/static/js/2.b52640aa.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e1a95cf4.chunk.js": "/hooponopono/static/js/3.e1a95cf4.chunk.js",
     "static/js/3.e1a95cf4.chunk.js.map": "/hooponopono/static/js/3.e1a95cf4.chunk.js.map",
     "index.html": "/hooponopono/index.html",
-    "static/css/main.5961c55f.chunk.css.map": "/hooponopono/static/css/main.5961c55f.chunk.css.map",
+    "static/css/main.7d27b703.chunk.css.map": "/hooponopono/static/css/main.7d27b703.chunk.css.map",
     "static/js/2.b52640aa.chunk.js.LICENSE.txt": "/hooponopono/static/js/2.b52640aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f117c90b.js",
     "static/js/2.b52640aa.chunk.js",
-    "static/css/main.5961c55f.chunk.css",
-    "static/js/main.fa17e6ef.chunk.js"
+    "static/css/main.7d27b703.chunk.css",
+    "static/js/main.fab83858.chunk.js"
   ]
 }
