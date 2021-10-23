@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hooponopono/static/css/main.2a2461f3.chunk.css",
-    "main.js": "/hooponopono/static/js/main.f4bb6348.chunk.js",
-    "main.js.map": "/hooponopono/static/js/main.f4bb6348.chunk.js.map",
+    "main.js": "/hooponopono/static/js/main.c9706c80.chunk.js",
+    "main.js.map": "/hooponopono/static/js/main.c9706c80.chunk.js.map",
     "runtime-main.js": "/hooponopono/static/js/runtime-main.f117c90b.js",
     "runtime-main.js.map": "/hooponopono/static/js/runtime-main.f117c90b.js.map",
     "static/js/2.b52640aa.chunk.js": "/hooponopono/static/js/2.b52640aa.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f117c90b.js",
     "static/js/2.b52640aa.chunk.js",
     "static/css/main.2a2461f3.chunk.css",
-    "static/js/main.f4bb6348.chunk.js"
+    "static/js/main.c9706c80.chunk.js"
   ]
 }
