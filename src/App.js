@@ -11,7 +11,7 @@ function App() {
   useEffect(() => {
     console.log(state);
     if (state) {
-      for (let idx = 1; idx <= 180; idx++) {
+      for (let idx = 1; idx <= 108; idx++) {
         setTimeout(() => {
           setNumber(idx)
           setMsgToShow('')
